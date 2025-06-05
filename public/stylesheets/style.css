@@ -61,3 +61,9 @@ h1 {
     font-size: 0.95em;
     margin-bottom: 0.5rem;
 }
+
+.user-info {
+    color: #555;
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+}

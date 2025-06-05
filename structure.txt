@@ -9,15 +9,23 @@
 │   ├── file.svg
 │   ├── globe.svg
 │   ├── next.svg
+│   ├── stylesheets
+│   │   └── style.css
 │   ├── vercel.svg
 │   └── window.svg
 ├── README.md
 ├── src
 │   └── app
+│       ├── dashboard
+│       │   ├── layout.js
+│       │   └── users
+│       │       ├── [uid]
+│       │       ├── @modal
+│       │       └── page.js
 │       ├── favicon.ico
 │       ├── globals.css
 │       ├── layout.js
 │       └── page.js
 └── structure.txt
 
-4 directories, 17 files
+9 directories, 20 files
