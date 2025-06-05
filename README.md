@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **เอกสารประกอบ : โครงงาน Next.js (30 คะแนน)**
 
-## Getting Started
+1. # **ผู้จัดทำ**
 
-First, run the development server:
+| ชื่อนักศึกษา: | เมธี นิลรัตน์ |
+| :---- | :---- |
+| รหัสนักศึกษา: | 67130893 |
+| วิชา: | WE670 \- การพัฒนาเว็บแอปพลิเคชันขั้นสูง |
+| วันที่ส่ง: | 07/06/2025 |
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+   
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. # **ใบงาน**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+| อาจาร์ผู้สอน: | Chaloemphon Sirikayon |
+| :---- | :---- |
+| วันที่สั่งงาน: | 24/05/2025 |
+| กำหนดส่งงาน: | 27/06/2025 11:59 PM |
+| คะแนน: | 30 คะแนน |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   
 
-## Learn More
+   งาน \-:
 
-To learn more about Next.js, take a look at the following resources:
+   ให้นักศึกษาพัฒนาเว็บแอปพลิเคชันเต็มรูปแบบ ที่มีการทำงานทั้งส่วน front-end และ back-end 1 ระบบงาน ด้วยการใช้ Next.js โดยให้มีการติดต่อฐานข้อมูล เพื่อนำข้อมูลมาใช้งาน เพิ่มม ลบ และแก้ไขข้อมูลได้ และมีการทำ User Authentication เพื่อเข้าใช้งานส่วนของเว็บแอปพลิเคชันตามที่ออกแบบไว้ได้
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   สิ่งที่ต้องส่ง \-:
 
-## Deploy on Vercel
+   1\. เอกสารโครงงาน จัดทำเป็นไฟล์ word และ pdf ประกอบด้วย
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   1.1 ชื่อระบบงาน, ผู้จัดทำ
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   1.2 รายละเอียด และ วัตถุประสงค์การใช้งาน
+
+   1.3 โครงสร้างฐานข้อมูล ER Diagram
+
+   1.4 ผลลัพธ์ของการพัฒนา (หน้าจอ, คำอธิบายรายละเอียดการใช้งานบนหน้าเว็บ)
+
+   2\. นำไฟล์ขึ้น Github สร้าง repository แบบ public แล้วส่ง URL
+
+   3\. สไลด์พรีเซนเตชัน (พรีเซนไม่เกิน 5 นาที)
+
+   
+
+3. # **ชื่อระบบงาน**
+
+   Thunderbolts\* : Full-stack Directory App using Next.js  
+   
